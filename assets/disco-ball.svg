@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="260" viewBox="0 0 240 260" fill="none">
+  <defs><clipPath id="ball"><circle cx="120" cy="139" r="73"/></clipPath></defs>
+  <g stroke="#714775" stroke-width="1.5">
+    <path d="M120 0v65"/><circle cx="120" cy="139" r="73" fill="#f6d4e4"/>
+    <g clip-path="url(#ball)">
+      <ellipse cx="120" cy="139" rx="58" ry="73"/><ellipse cx="120" cy="139" rx="34" ry="73"/><ellipse cx="120" cy="139" rx="12" ry="73"/>
+      <ellipse cx="120" cy="139" rx="73" ry="57"/><ellipse cx="120" cy="139" rx="73" ry="33"/><ellipse cx="120" cy="139" rx="73" ry="11"/>
+      <path d="M47 139h146M120 66v146"/>
+      <path d="m81 79 13 4-2 15-15-4zm56 9 17 3 1 15-17-3zm-42 35 13 1v15H94zm43 31 15-1 1 17-16 1zm-51 26 13 5 2 13-13-4z" fill="#714775" fill-opacity=".14" stroke="none"/>
+    </g>
+    <path d="m24 71 5 15 15 5-15 5-5 15-5-15-15-5 15-5zm187 111 4 12 12 4-12 4-4 12-4-12-12-4 12-4zM200 57v24m-12-12h24M31 181l10 7m-5-12-1 17M75 231l-8 13m108-14 9 14M47 35l10 15m127-17-9 16"/>
+  </g>
+</svg>
