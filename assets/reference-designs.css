@@ -18,6 +18,9 @@
 .guest-card p:last-child { margin-bottom: 0; }
 .guest-card-wide { grid-column: 1 / -1; }
 .guest-card-single { max-width: 720px; margin: 0 auto; }
+.rsvp-form-wrap { max-width: 760px; margin: 0 auto; }
+.rsvp-test-notice { margin-bottom: 32px; border-color: #714775; }
+.rsvp-form { display: block; width: 100%; border: 0; }
 @media (max-width: 700px) {
   .guest-card-grid { grid-template-columns: 1fr; }
   .guest-card { padding: 24px; }
