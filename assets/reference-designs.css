@@ -21,6 +21,9 @@
 .rsvp-form-wrap { max-width: 760px; margin: 0 auto; }
 .rsvp-test-notice { margin-bottom: 32px; border-color: #714775; }
 .rsvp-form { display: block; width: 100%; border: 0; }
+.botanical .reference-subtitle { font-family: var(--serif); font-size: clamp(16px, 1.8vw, 20px); font-weight: 600; line-height: 1.5; letter-spacing: .1em; color: #714775; margin-top: 12px; }
+.botanical-footer-art { margin: 0 auto 24px; text-align: center; }
+.botanical-footer-art img { display: block; width: 240px; max-width: 65%; height: auto; margin: 0 auto; }
 @media (max-width: 700px) {
   .guest-card-grid { grid-template-columns: 1fr; }
   .guest-card { padding: 24px; }
